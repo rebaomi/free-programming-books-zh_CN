@@ -151,7 +151,7 @@
     * [第 3 部分: 使用 ajax4jsf 添加 Ajax 功能](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf3/index.html)
     * [第 4 部分: 使用 Apache Trinidad 组件扩展 JSF](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf4/index.html)
     * [第 5 部分: 将 JSF 应用程序与 Spring 集成](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-jsf5/index.html)
-* Apache Geronimo 和 Spring 框架
+* Apache Geronimo 和 Spring 框架（此部分页面貌似无法访问了）
     * [第 1 部分: 开发方法学](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe1/index.html)
     * [第 2 部分: 构建第一个应用程序](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe2/index.html)
     * [第 3 部分: 集成 DAO 与 ORM](http://www.ibm.com/developerworks/cn/education/opensource/os-ag-springframe3/index.html)
